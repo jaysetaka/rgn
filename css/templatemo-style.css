@@ -133,7 +133,7 @@ a:hover {
 
 .tm-welcome-right {
   color: white;
-  background-color: #986665;
+  background-color: #16a085;
   padding: 80px 43px 70px;
   height: 100%;
 }
@@ -178,15 +178,15 @@ a:hover {
 }
 
 .tm-text-green {
-  color: #98cb00;
+  color: #3498db;
 }
 
 .tm-text-orange {
-  color: #cc6733;
+  color: #2c3e50;
 }
 
 .tm-text-blue {
-  color: #3398cc;
+  color: #3498db;
 }
 
 .tm-text-dark-gray {
